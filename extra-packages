@@ -19,6 +19,7 @@ glab
 glab-bash-completion
 gpg
 gum
+htop
 just
 make
 micro
@@ -32,6 +33,11 @@ openssh-client
 pigz
 plocate
 python3
+py3-numpy
+py3-pandas
+py3-scipy
+py3-openpyxl
+py3-matplotlib
 ranger
 rclone
 ripgrep
