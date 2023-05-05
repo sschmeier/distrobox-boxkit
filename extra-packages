@@ -38,6 +38,8 @@ py3-pandas
 py3-scipy
 py3-openpyxl
 py3-matplotlib
+py3-gitpython
+py3-colorama
 ranger
 rclone
 ripgrep
